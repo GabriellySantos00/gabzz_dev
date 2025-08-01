@@ -1,4 +1,4 @@
-# 👋 Seja bem-vindo(a)
+# Seja bem-vindo(a)
 
 Sou apaixonada por conectar diferentes áreas do conhecimento. Tenho especial interesse em **Psicologia**, **Design Gráfico** e atualmente entrei na área de **Desenvolvimento de Sistemas** por meio do meu curso técnico. Ainda sou iniciante na área da programação, mas sigo firme nos estudos, com o propósito de unir **sensibilidade**, **arte** e **tecnologia** para criar experiências digitais que envolvam, comuniquem e gerem impacto. Acredito que boas ideias nascem quando lógica e emoção trabalham juntas — por isso busco desenvolver projetos que despertem **atenção, significado e conexão**. 
 
